@@ -12,7 +12,7 @@ PKG_NAME:=switch_cli_ugw8
 PKG_VERSION:=1.2.1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://intel.prpl.dev/intel/switch_cli.git
+PKG_SOURCE_URL:=https://github.com/paldier/switch_cli.git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_VERSION:=2c5ab8ac3d9bd74f5829dcb58a5ef7d9a37ca627
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION).tar.gz
